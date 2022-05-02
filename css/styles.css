@@ -80,11 +80,16 @@ body {
   margin: 5% 3% 5% 0;
 }
 
-/* title-image */
+/* Title-image */
+
 .title-image {
-  width: 22%;
-  transform: rotate(15deg);
-  position: absolute;
+  width: 60%;
+  transform: rotate(25deg);
+  position: relative;
+
+}
+.title-image-head{
+  position:relative;
 }
 
 .image20 {
